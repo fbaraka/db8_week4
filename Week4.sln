@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week4", "Week4\Week4.csproj", "{7A40200A-38A4-42ED-A688-5EFA6A376A1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehicles", "ConsoleApp1\Vehicles.csproj", "{5F55B9CA-CB6E-449C-803C-628A0C06B412}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG_Lab", "RPG_Lab\RPG_Lab.csproj", "{CE93D7DA-2B26-4364-B715-0361E415A991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A40200A-38A4-42ED-A688-5EFA6A376A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A40200A-38A4-42ED-A688-5EFA6A376A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A40200A-38A4-42ED-A688-5EFA6A376A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A40200A-38A4-42ED-A688-5EFA6A376A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F55B9CA-CB6E-449C-803C-628A0C06B412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F55B9CA-CB6E-449C-803C-628A0C06B412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F55B9CA-CB6E-449C-803C-628A0C06B412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F55B9CA-CB6E-449C-803C-628A0C06B412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE93D7DA-2B26-4364-B715-0361E415A991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE93D7DA-2B26-4364-B715-0361E415A991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE93D7DA-2B26-4364-B715-0361E415A991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE93D7DA-2B26-4364-B715-0361E415A991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6384E1FB-B2F7-44F4-8855-3836FD28F1CE}
+	EndGlobalSection
+EndGlobal
